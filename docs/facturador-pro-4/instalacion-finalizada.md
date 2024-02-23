@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Instalacion completa
+# Instalacion finalizada
 
 Finalizado el script y dependiendo de sus selecciones anteriores, se le entregará varios datos que debe guardar, como:
     
