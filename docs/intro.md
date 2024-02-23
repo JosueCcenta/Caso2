@@ -29,12 +29,3 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
 ![Imagen de configuracion](https://lh7-us.googleusercontent.com/ARgPelvASqFD0syjMYc5ckjcq6F7SraMbng8ellNFQY_a1eu6qunHIZSnu1pUwBvwNNEHSeantbMNmTzkJUfBH4nF-23XiBvr5x9pWxeRGZKWGZ7ChQ-bbqUssKPxufv4iup3bP6SdMrO8jPknWjGQ)
 
 4.  En caso de contar con servicios instalados en su instancia como mysql, apache o nginx, debe detenerlos, ya que estos ocupan los puertos que pasarán a usar el aplicativo con los contenedores de Docker
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-```bash
-cd my-website
-npm run start
-```
