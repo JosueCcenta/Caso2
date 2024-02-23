@@ -64,7 +64,6 @@ const config = {
           src: 'img/Favicon.ico',
         },
         items: [
-          {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/docs/intro', label: 'Documentacion', position: 'left'},
           {
             href: 'https://josueccenta.github.io/docusuarios-case1/',
